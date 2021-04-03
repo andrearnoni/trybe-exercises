@@ -1,0 +1,37 @@
+<style>
+        h1{
+            font-size: 65px;
+            font-family: sans-serif;
+            cologit statusr: orange;
+        }
+
+        ul{
+            background-color: palegreen;
+        }
+
+        p{
+            font-size: 3em;
+            font-weight: 600;
+        }
+
+        body{
+            font-size: 16px;
+        }
+
+        #amarelo{
+            background-color: yellow;
+        }
+
+        #vermelho{
+            background-color: red;
+        }
+
+        #marrom{
+            background-color: brown;
+        }
+
+        .background{
+            background-color: red;
+        }
+
+    </style>
