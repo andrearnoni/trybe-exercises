@@ -1,0 +1,46 @@
+body {
+  font-size: 0.9em;
+  background-color: rgb(234, 237, 240);
+}
+
+textarea{
+  resize: none;
+}
+
+header {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: rgb(164, 164, 164);
+}
+
+footer p {
+  margin: 0;
+  padding: 5px;
+}
+
+h5.font-weight-bold {
+  margin-bottom: 25px;
+}
+
+.generalSetting {
+  max-width: 800px;
+  width: 80%;
+  margin: auto;
+}
+
+.section {
+  background-color: rgb(246, 247, 248);
+  border: 1px solid rgb(214, 217, 220);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.under {
+  margin: 15px 0;
+}
+
+.underBtn {
+  margin-bottom: 15px;
+}
