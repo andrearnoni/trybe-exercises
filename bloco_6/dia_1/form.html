@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Cadastro de currículo</title>
+    <link rel="stylesheet" href="DatePickerX/dist/css/DatePickerX.min.css">
+    <link rel="stylesheet" href="bootstrap-4.6.0-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="generalSetting">
+  <header class="text-center section">
+    <h1>Cadastro de currículo</h1>
+    <h5><em>Preencha os campos abaixo:</em></h5>
+  </header>
+  <form method="GET" id="resumeForm">
+    <div id="resumeSummary">
+      <div class="section under">    
+        <h5 class="text-center font-weight-bold">Dados Pessoais</h5>
+        <div class="form-group">
+          <label for="inputName">Nome completo:</label>
+          <input class="form-control" type="text" name="nome" maxlength="40" id="inputName" placeholder="Digite aqui o seu nome" autocomplete="off" required> 
+        </div>
+        <div class="form-group">
+          <label for="inputEmail">Email:</label>
+          <input class="form-control data-validate-field" type="email" name="email" maxlength="50" id="inputEmail" placeholder="Digite aqui o seu email" autocomplete="off"required>
+        </div>
+        <div class="form-group">
+          <label for="inputCpf">CPF:</label>
+          <input class="form-control" type="number" name="cpf" maxlength="11" id="inputCpf" placeholder="Digite somente os números" autocomplete="off" required>
+        </div>
+        <div class="form-group">
+          <label for="inputEndereco">Endereço:</label>
+          <input class="form-control" type="text" name="endereco" maxlength="200" id="inputEndereco" placeholder="Digite seu endereço" autocomplete="off" required>
+        </div>
+        <div class="form-group">
+          <label for="cidade">Cidade:</label>
+          <input class="form-control" type="text" name="cidade" maxlength="28" id="inputCidade" placeholder="Digite sua cidade" autocomplete="off" required>
+        </div>
+        <div class="form-group">
+          <label for="selectEstado">Selecione seu estado:</label>
+          <select class="custom-select" name="estado" id="selectEstado" required></select>
+        </div>
+        <p>Selecione o seu tipo de moradia:</p> 
+        <div class="custom-control custom-radio custom-control-inline">
+          <input class="custom-control-input" type="radio" name="tipoMoradia" id="inputCasa" checked>
+          <label class="custom-control-label" for="inputCasa">Casa</label>
+        </div>
+        <div class="custom-control custom-radio custom-control-inline">
+          <input class="custom-control-input" type="radio" name="tipoMoradia" id="inputApto">
+          <label class="custom-control-label" for="inputApto">Apartamento</label>
+        </div>
+      </div>
+      <div class="section under">  
+        <h5 class="text-center font-weight-bold">Experiência Profissional</h5>
+        <div class="form-group">
+          <label for="inputResumo">Resumo do currículo (carta de apresentação):</label>
+          <textarea class="form-control" name="resumo" id="inputResumo" cols="40" rows="10" maxlength="1000" placeholder="Digite aqui um breve resumo do currículo." required></textarea>
+        </div>
+        <div class="form-group">
+          <label for="inputCargo">Cargo:</label>
+          <input class="form-control" type="text" name="cargo" id="inputCargo" maxlength="40" placeholder="Digite aqui o ultimo cargo" autocomplete="off" required>
+        </div>
+        <div class="form-group">
+          <label for="inputDescricaoCargo">Descrição do cargo:</label>
+          <input class="form-control" type="text" name="descricao" id="inputDescricaoCargo" maxlength="500" placeholder="Descreva aqui o cargo" autocomplete="off" required>
+        </div>
+        <div class="form-group">
+          <label for="inputInicioExp">Data de início:</label>
+          <input class="form-control" type="text" name="cargoDataInício" id="inputInicioExp" value="" placeholder="dd/mm/aaaa" autocomplete="off" required>   
+        </div>
+      </div>  
+      <button class="btn btn-success rounded-pill underBtn" type="submit" id="submitBtn">Enviar</button>
+      <button class="btn btn-danger rounded-pill underBtn" type="reset" id="clearBtn">Limpar</button>
+    </div>    
+  </form>
+  </div>
+  <footer class="text-center">
+    <p>Desenvolvido por André Arnoni &copy; - 2021</p>
+  </footer>
+  <script src="node_modules/just-validate/dist/js/just-validate.min.js"></script>
+  <script src="DatePickerX/dist/js/DatePickerX.min.js"></script>
+  <script src="jquery-3.6.0.min.js"></script>
+  <script src="bootstrap-4.6.0-dist/js/bootstrap.min.js"></script>  
+  <script src="script.js"></script>
+</body>
+</html>
