@@ -1,0 +1,22 @@
+body{
+    margin: 20px;
+}
+
+.preferences{
+    border: 1px solid black;
+}
+.options{
+    margin: 10px 5px
+}
+
+#title{
+    text-align: center;
+}
+
+#subtitle{
+    text-align: center;
+}
+
+#paragraph{
+    text-align: justify;
+}
