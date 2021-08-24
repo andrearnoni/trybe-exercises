@@ -66,13 +66,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_ :heavy_check_mark:
 - [X] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_ :heavy_check_mark:
 - [X] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_ :heavy_check_mark:
-- [X] 8-5: _Projeto - Zoo functions_
+- [X] 8-5: _Projeto - Zoo functions_ :heavy_check_mark:
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_ :heavy_check_mark:
 - [X] 9-2: _JavaScript Promises_ :heavy_check_mark:
-- [X] 9-3: _Projeto - Carrinho de Compras_
+- [X] 9-3: _Projeto - Carrinho de Compras_ :heavy_check_mark:
 
 ##### Bloco 10: Jest
 
@@ -143,46 +143,46 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 20-1: _Banco de dados SQL_ :heavy_check_mark:
 - [X] 20-2: _Encontrando dados em um banco de dados_ :heavy_check_mark:
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _Projeto - All For One_
+- [X] 20-3: _Filtrando dados de forma específica_ :heavy_check_mark:
+- [X] 20-4: _Manipulando tabelas_ :heavy_check_mark:
+- [X] 20-5: _Projeto - All For One_ :heavy_check_mark:
 
 ##### Bloco 21: Bancos de dados relacionais
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _Projeto - Vocabulary Booster_
+- [X] 21-1: _Funções mais usadas no SQL_ :heavy_check_mark:
+- [X] 21-2: _Descomplicando JOINs e UNIONs_ :heavy_check_mark:
+- [X] 21-3: _Stored Routines & Subqueries_ :heavy_check_mark:
+- [X] 21-4: _Projeto - Vocabulary Booster_ :heavy_check_mark:
 
 ##### Bloco 22: Bancos de dados relacionais
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _Projeto - One For All_
+- [X] 22-1: _Transformando ideias em um modelo de banco de dados_ :heavy_check_mark:
+- [X] 22-2: _Normalização, Formas Normais e Dumps_ :heavy_check_mark:
+- [X] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_ :heavy_check_mark:
+- [X] 22-3: _Projeto - One For All_ :heavy_check_mark:
 
 ##### Bloco 23: Introdução - NoSQL
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _Projeto - Data Flights_
+- [X] 23-1: _MongoDB - Introdução_ :heavy_check_mark:
+- [X] 23-2: _Filter Operators_ :heavy_check_mark:
+- [X] 23-3: _Projeto - Data Flights_ :heavy_check_mark:
 
 ##### Bloco 24: Updates
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _Projeto - Commerce_
+- [X] 24-1: _Updates Simples_ :heavy_check_mark:
+- [X] 24-2: _Updates Complexos - Arrays - Parte 1_ :heavy_check_mark:
+- [X] 24-3: _Updates Complexos - Arrays - Parte 2_ :heavy_check_mark:
+- [X] 24-4: _Projeto - Commerce_ :heavy_check_mark:
 
 ##### Bloco 25: Aggregation Framework
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _Projeto - Aggregations_
+- [X] 25-1: _Aggregation Framework - Part 1_ :heavy_check_mark:
+- [X] 25-2: _Aggregation Framework - Part 2_ :heavy_check_mark:
+- [X] 25-3: _Projeto - Aggregations_ :heavy_check_mark:
 
 ##### Bloco 26: Intro - NodeJS
 
-- [ ] 26-1: _NodeJS - Introdução_
+- [X] 26-1: _NodeJS - Introdução_ :heavy_check_mark:
 - [ ] 26-2: _NodeJS - Fluxo Assíncrono_
 - [ ] 26-3: _NodeJS - Arquitetura_
 - [ ] 26-4: _Projeto - A CLI of Ice and Fire_
