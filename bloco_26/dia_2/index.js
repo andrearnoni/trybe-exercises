@@ -12,17 +12,17 @@ function doMath(a, b, c) {
   });
 }
 
-// doMath(10, 10, 10)
-//   .then(resolve => console.log(resolve))
-//   .catch(error => console.error(error))
+doMath(10, 10, 10)
+  .then(resolve => console.log(resolve))
+  .catch(error => console.error(error))
 
-// doMath(1, 1, "a")
-//   .then(resolve => console.log(resolve))
-//   .catch(error => console.error(error))  
+doMath(1, 1, "a")
+  .then(resolve => console.log(resolve))
+  .catch(error => console.error(error))  
 
-// doMath(1, 1, 1)
-//   .then(resolve => console.log(resolve))
-//   .catch(error => console.error(error))  
+doMath(1, 1, 1)
+  .then(resolve => console.log(resolve))
+  .catch(error => console.error(error))  
 
 // Requisito 2
 function getRandomNumber() {
