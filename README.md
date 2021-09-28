@@ -183,31 +183,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 26: Intro - NodeJS
 
 - [X] 26-1: _NodeJS - Introdução_ :heavy_check_mark:
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _Projeto - A CLI of Ice and Fire_
+- [X] 26-2: _NodeJS - Fluxo Assíncrono_
+- [X] 26-3: _NodeJS - Arquitetura_
+- [X] 26-4: _Projeto - A CLI of Ice and Fire_
 
 ##### Bloco 27: NodeJS
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _Projeto - Cookmaster_
+- [X] 27-1: _Express: HTTP com Node.js_
+- [X] 27-2: _Arquitetura de Software - Introdução ao MVC_
+- [X] 27-3: _Projeto - Cookmaster_
 
 ##### Bloco 28: NodeJS
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _Projeto - Store Manager_
+- [X] 28-1: _Arquitetura de Software - Camada de Serviço_
+- [X] 28-2: _Arquitetura web - Rest e Restful_
+- [X] 28-3: _Projeto - Store Manager_
 
 ##### Bloco 29: NodeJS
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _Projeto - Cookmaster V2_
+- [X] 29-1: _NodeJS - JWT - (JSON Web Token)_
+- [X] 29-2: _NodeJS - Upload de arquivos com Multer_
+- [X] 29-3: _Projeto - Cookmaster V2_
 
 ##### Bloco 30: Introdução - Deploy
 
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
+- [X] 30-1: _Infraestrutura - Deploy com Heroku_
 - [ ] 30-2: _Deploy - Gerenciadores de Processos_
 - [ ] 30-3: _Projeto - Stranger Things_
 
